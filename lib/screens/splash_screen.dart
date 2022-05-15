@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return const Scaffold(
       body: Center(
         child: Text(
-          'Splash Screen',
+          'Establishing Connection',
           style: TextStyle(fontSize: 30),
         ),
       ),
